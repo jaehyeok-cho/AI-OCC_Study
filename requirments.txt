@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+pillow
+matplotlib
+opencv-python==4.13.0.92
+numpy==2.2.6
+scikit-image
+huggingface_hub
+ultralytics
+PyMuPDF
+
+# pythonOCC is installed by setting.bat through conda-forge:
+# conda install -c conda-forge pythonocc-core=7.7.2 pyqt=6
