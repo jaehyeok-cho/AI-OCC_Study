@@ -9,6 +9,7 @@ scikit-image
 huggingface_hub
 ultralytics
 PyMuPDF
+mcp
 
 # pythonOCC is installed by setting.bat through conda-forge:
 # conda install -c conda-forge pythonocc-core=7.7.2 pyqt=6
